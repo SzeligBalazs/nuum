@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nuum/static/css/main.4c68ea0a.css",
-    "main.js": "/nuum/static/js/main.d0b95896.js",
+    "main.js": "/nuum/static/js/main.825f7e4f.js",
     "index.html": "/nuum/index.html",
     "main.4c68ea0a.css.map": "/nuum/static/css/main.4c68ea0a.css.map",
-    "main.d0b95896.js.map": "/nuum/static/js/main.d0b95896.js.map"
+    "main.825f7e4f.js.map": "/nuum/static/js/main.825f7e4f.js.map"
   },
   "entrypoints": [
     "static/css/main.4c68ea0a.css",
-    "static/js/main.d0b95896.js"
+    "static/js/main.825f7e4f.js"
   ]
 }
